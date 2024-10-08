@@ -1,0 +1,21 @@
+Projet : application web sur la gestion  de l'hotel
+                 
+         intéret du site :pourquoi notre site est besoin?                                           
+nous sommes un groupe de 6 personnes et nous avons comme thème la mise en place d' une application web sur la gestion de l'hotel. on a choisi ce thème pour répondre aux besoin des clients qui veulent reserver un chambre et de leurs facilité la tache.
+par exemple: si quelqu'un ,un étranger ou un compatriote, veux reserver un chambre dans notre pays il n'a que visiter notre site prodigieux. il peut facilement reserver la chambre qu'il veut dans l'hotel qu'il veut en choisissant meme le niveau de l'hotel qu'il veut (5  étoile ,4 étoile ,etc...) sans se déplacer. ce qui facilite la tache au client et rend le site impressionnant. ceci facilite aussi aux hotels de gérer les reservations des clients à travers notre site. 
+donc en conclusion, le client est satisfait et l'hotel gagne plus de profit.
+ 
+
+                           objectifs :
+-	creer une application web fonctionnel et securisé qui permet aux clients, ou meme les voyageurs, de reserver des chambres et de gerer leurs reservations en ligne.	
+-	Offrir aux client une experience fuide et responsive (adaptée aux mobiles et tablettes ).
+-	Permettre aux clients de verifier la disponibilité des chambres (si libre ou occupée )
+-	Permettre aux clients de modifier ou d’annuler leurs réservations. (doit être visible dans la base de donnée pour les administrateurs )
+-	Generer une confirmation automatique après une reservation automatique reussie.
+-	Facilter l’administration des reservations (pour l’hotel ) avec des fonctionnalités comme la gestion des chambres disponibles et la facturation (paiement en ligne ).
+-	Créer un login administrateur qui permet de gerer la gestion de l’hotel.
+
+
+
+
+
