@@ -1,0 +1,66 @@
+.inter .zak{
+    width: 100%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 15px;
+}
+
+.inter .zak .said{
+    width: 316px;
+    height: 480px;
+    padding-top: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+.retour {
+        background-color: white;
+        font-weight: bold ;
+        width: 100px;
+                    
+           
+            }
+button{
+
+    background-color: chartreuse;
+    font-weight: bold ;
+}
+
+.inter .zak .said .image{
+    width: 300px;
+    height: 245px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.inter .zak .said .image img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    transition: 0.3s;
+}
+
+.inter .zak .said .image:hover img{
+    transform: scale(1.1);
+}
+
+.inter .zak .said .desc h2{
+    width: 60%;
+    text-align: center;
+    margin: 10px auto 10px auto;
+    font-size: 25px;
+    color: #f60e0e;
+}
+
+.inter .zak .said .desc p{
+    text-align: center;
+    margin-top: 8px;
+    line-height: 21px;
+}
+
+.inter .zak .said .desc h3{
+    text-align: center;
+    margin-top: 10px;
+}
