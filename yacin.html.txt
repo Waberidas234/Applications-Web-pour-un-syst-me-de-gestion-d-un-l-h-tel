@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="zak.css">
+    <title>Document</title>
+</head>
+<body>
+    <center>  <h1>RESERVATION LES CHAMBRE</h1> </center>
+
+  
+
+
+    <div class="inter" id="Menu">
+        <div class="zak">
+            <div class="said">
+                <div class="image">
+                    <a href=""><img src="kemp1.jpg"></a>
+                </div>
+                <div class="desc">
+                    <p>
+                        Numero chambre: 1 <br>
+                        statut:disponible <br>
+                        type de chambre:couple, avec vue<br>
+                        prix:12000fdj
+
+                    
+                    </p>
+                    <h3></h3>
+                </div>
+            </div> 
+            
+            <div class="said">
+                <div class="image">
+                    <a href=""><img src="kemp2.jpg"></a>
+                </div>
+                <div class="desc">
+                    
+                    <p>
+                        Numero chambre: 2 <br>
+                        statut:disponible <br>
+                        type de chambre:twin, avec vue <br>
+                        prix:120067fdj
+
+                    </p>
+                    <h3></h3>
+                </div>
+            </div> 
+
+                 <div class="said">
+                <div class="image">
+                    <a href=""><img src="kemp3.jpeg"></a>
+                
+                </div>
+                <div class="desc">
+                    
+                    <p>
+                        Numero chambre: 3 <br>
+                        statut:disponible<br>
+                        type de chambre:simple, avec vue<br>
+                        prix:1200000fdj
+
+                    </p>
+                    <h3></h3>
+                </div>
+            </div> 
+
+
+           
+
+            
+        </div>
+    </div>
+    
+                <center><button class="retour"> <a href="client.html"> RETOUR </a></button> </center>
+</body>
+</html>
