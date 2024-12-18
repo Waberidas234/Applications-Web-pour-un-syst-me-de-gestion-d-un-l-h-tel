@@ -180,7 +180,7 @@ $query->close();
             <p>Ajoutez, modifiez ou supprimez des chambres dans votre hôtel.</p>
             <a href="ajouterchambre.php" class="button">Ajouter une Chambre</a>
             <a href="modifierchambre.php" class="button">Modifier une Chambre</a>
-            <a href="supprimersheraton.php" class="button">Supprimer une Chambre</a>
+            <a href="supprimerchambre.php" class="button">Supprimer une Chambre</a>
             <a href="motdepasse.php" class="button">motdepasse oublier</a>
         </div>
 
